@@ -63,6 +63,12 @@
             />
     </LinearLayout>
 
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        />
+
     <ImageView android:id="@+id/clear_all_button"
         android:layout_width="32dp"
         android:layout_height="32dp"
